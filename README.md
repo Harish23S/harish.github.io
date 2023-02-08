@@ -1,1 +1,1 @@
-# wirframe
+# wireframe
