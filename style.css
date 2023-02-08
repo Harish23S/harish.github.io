@@ -58,25 +58,25 @@ body{
 @media screen and (max-width: 620px)
 {
 	.link{
-	width: 65%;
+	width: 75%;
 	text-align: right;
 	}
 	
 	.input{
 	margin: 0 auto;
-	width: 65%;
+	width: 75%;
 	};
 }
 
 @media screen and (max-width: 290px)
 {
 	.link{
-	width: 65%;
+	width: 75%;
 	text-align: right;
 	}
 	
 	.input{
 	margin: 0 auto;
-	width: 65%;
+	width: 75%;
 	};
 }
