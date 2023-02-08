@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+	margin: 0;
+}
+
+.input{
+	margin: 0 auto;
+	width: 50%;
+}
+
+.logo img{
+	width: 138px;
+	height: 138px;
+}
+
+.link{
+	width: 50%;
+	text-align: right;
+}
+
+.enjoy-css {
+	width: 100%;
+	display: inline-block;
+	box-sizing: content-box;
+	border-top: 0 none;
+	border-left: 0 none;
+	border-right: 0 none;
+	text-align: left;
+	border-bottom-width: 2px;
+}
+
+.btnn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 1px 1px 9px #000000;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 15px 30px 15px 30px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
